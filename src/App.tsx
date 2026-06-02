@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>HybridSync</h1>
+        <h1>HybridSync Tcc</h1>
       </div>
     </>
   )
