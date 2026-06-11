@@ -1,5 +1,5 @@
-import { useState } from 'react'
 import './App.css'
+import CalendarioCustomizado from './calendário'
 
 function App() {
 
@@ -7,6 +7,7 @@ function App() {
     <>
       <div>
         <h1>HybridSync Tcc</h1>
+        <CalendarioCustomizado />
       </div>
     </>
   )
